@@ -1,0 +1,338 @@
+{
+  "site": {
+    "name": "Zenith Infotech (S) Pte Ltd",
+    "image": "https://static.wixstatic.com/media/c520e6_cf3ce15784ac440a9172bb9d2dfa6ab3~mv2.png/v1/fill/w_380,h_229,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c520e6_cf3ce15784ac440a9172bb9d2dfa6ab3~mv2.png",
+ 
+    "description": "Trusted IT manpower provider in Singapore, delivering expert IT staffing solutions across industries."
+  },
+  "navbar": {
+    "menu": [
+      { "name": "Home", "link": "#" },
+      { "name": "About Us", "link": "#about" },
+      { "name": "Services", "link": "#services" },
+
+      { "name": "Careers", "link": "#careers" },
+      { "name": "Contact", "link": "#contact" }
+    ],
+    "ctaButton": { "text": "Get in Touch", "link": "#contact" }
+  },
+  
+  "services": {
+    "specializations": [
+      {
+        "title": "IT manpower outsourcing",
+        "image": "https://thewashingtonnote.com/wp-content/uploads/2022/12/NetSuite-Consultant-768x512.jpg"
+      },
+      {
+        "title": "Contract hiring",
+        "image": "https://images.examples.com/wp-content/uploads/2018/01/Hiring-Contract-Examples-Samples.jpg"
+      },
+      {
+        "title": "Permanent placements",
+        "image": "https://static.fibre2fashion.com/Newsresource/images/284/uk-jobs_296180.jpg"
+      },
+      {
+        "title": "Project outsourcing",
+        "image": "https://redstaglabs.com/blogs/wp-content/uploads/assets/images/resource/out-source.webp"
+      },
+      {
+        "title": "Consulting services",
+        "image": "https://wallpaperaccess.com/full/6169745.jpg"
+      },
+      {
+        "title": "Recruitment process outsourcing",
+        "image": "https://media.istockphoto.com/photos/businessman-holds-recruitment-process-outsourcing-rpo-picture-id1176495993?k=20&m=1176495993&s=612x612&w=0&h=LL9OhWtK-kKuw3bpzyJhW8KI0Kaf1wi80skerbiGLEU="
+      },
+    
+      {
+        "title": "Candidate screening and evaluation",
+        "image": "https://tse3.mm.bing.net/th/id/OIP.vrZ_QpdWf3GdStoeteVVZAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3"
+      },
+      {
+        "title": "Training and development",
+        "image": "https://c8.alamy.com/comp/2C395GN/training-and-development-hand-drawn-on-chalkboard-training-and-development-with-doodle-icons-around-2C395GN.jpg"
+      }
+    ],
+    "features": [
+      
+      {
+        "title": "Competitive Pricing",
+        "description": "Cost-effective staffing solutions",
+        "image": "https://img.icons8.com/color/96/cheap.png"
+      },
+      {
+        "title": "Customized Solutions",
+        "description": "Tailored IT staffing strategies",
+        "image": "https://img.icons8.com/color/96/settings.png"
+      },
+      {
+        "title": "Reliability",
+        "description": "Vetted, qualified professionals",
+        "image": "https://img.icons8.com/color/96/approval.png"
+      },
+      {
+        "title": "Long Term Partnerships",
+        "description": "Client-focused, relationship-driven approach",
+        "image": "https://img.icons8.com/color/96/handshake.png"
+      },
+      {
+        "title": "Quality Commitment",
+        "description": "High-quality candidate delivery",
+        "image": "https://img.icons8.com/color/96/medal.png"
+      }
+    ],
+    "industriesServed": [
+      {
+        "title": "Government & Public Sector",
+        "image": "https://img.icons8.com/color/96/law.png"
+      },
+      {
+        "title": "Large Enterprises & MNCs",
+        "image": "https://img.icons8.com/color/96/company.png"
+      },
+      {
+        "title": "System Integrators & IT Consultants",
+        "image": "https://img.icons8.com/color/96/workflow.png"
+      },
+      {
+        "title": "Financial Services & Fintech",
+        "image": "https://img.icons8.com/color/96/money.png"
+      },
+      {
+        "title": "Universities & Education Tech",
+        "image": "https://img.icons8.com/color/96/university.png"
+      },
+      {
+        "title": "Tech Startups & SaaS Innovators",
+        "image": "https://img.icons8.com/color/96/subscription.png"
+      },
+      {
+        "title": "Small & Medium Enterprises (SMEs)",
+        "image": "https://img.icons8.com/color/96/shop.png"
+      }
+    ]
+  }
+
+,
+  "companyInfo": {
+    "incorporationYear": 1997,
+    "registrationNumber": "199702119G",
+    "incorporatedOn": "1 April 1997",
+    "registeredAddress": "10 Jalan Besar #10-12, Sim Lim Tower, Singapore 208787",
+    "formerName": "Zensoft Technologies (S) Pte Ltd",
+    "businessActivities": {
+      "primary": "Development of software and applications (except games and cybersecurity)",
+      "secondary": "Employment agencies (excluding domestic worker placement and online marketplaces)"
+    },
+    "licence": {
+      "type": "Select Licence (SL)",
+      "regulates": "Placement of workers earning above S$4,500/month",
+      "status": "Live",
+      "issuedOn": "25 August 2020"
+    },
+    "annualReturnDate": "9 January 2025",
+    "paidUpCapital": "SGD 1,000,000",
+    "operatingStatus": "Live Company"
+  },
+  "locations": [
+    {
+      "country": "Singapore",
+      "address": "111 North Bridge Road, #16-01 Peninsula Plaza, Singapore 179098",
+      "phone": "+65 6224 9404 / +65 6224 9387",
+      "email": "sales@zenithinfotech.com.sg"
+    },
+    {
+      "country": "Malaysia",
+      "address": "Suite 20E, Level 20, East Wing, Akademi Etiqa, 23 Jalan Melaka, 50100 Kuala Lumpur",
+      "phone": "+60 3 2694 7108 / +60 3 2694 7114",
+      "email": "sales@zenithinfotech.com.sg"
+    }
+  ],
+  "trackRecord": {
+    "experienceYears": 27,
+    "clientTypes": [
+      "Startups",
+      "Fortune 500 companies",
+      "Government agencies"
+    ],
+    "domains": [
+      "Software development",
+      "Cybersecurity",
+      "Cloud services",
+      "Data analytics",
+      "DevOps",
+      "Full-stack development",
+      "IT support"
+    ],
+    "jobFillingEfficiency": "95% of IT roles filled within 5 days"
+  },
+  "jobOpenings": "Multiple roles across IT such as Business Analyst, Pega Developer, Java Developer, AI Developer, Software Engineer, Infra (AWS) Engineer, Project Manager, KYC Specialist, Operations Engineer, etc.",
+ "contact": {
+  "email": "sales@zenithinfotech.com.sg",
+  "phone": ["+65 6224 9404", "+65 6224 9387"],
+  "address": "10 Anson Road, #27-15 International Plaza, Singapore 079903",
+  "workingHours": "Mon - Fri: 9:00 AM - 6:00 PM",
+  "mapLink": "https://www.google.com/maps/place/International+Plaza,+Singapore",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/zenithinfotech",
+    "facebook": "https://www.facebook.com/zenithinfotech",
+    "twitter": "https://twitter.com/zenithinfotech",
+    "instagram": "https://www.instagram.com/zenithinfotech"
+  }
+}
+
+,
+"add": {
+  "title": "Ready to Transform Your Business?",
+  "description": "Join hands with us and explore endless possibilities in technology and innovation.",
+  "buttonText": "Get Started",
+  "buttonLink": "/contact"
+}
+
+,
+
+  "about": {
+    "title": "About Zenith Infotech (S) Pte Ltd",
+    "story": "Founded in 1997, Zenith Infotech (S) Pte Ltd is a Singapore-based IT manpower solutions company. With more than 27 years of experience, the company specializes in providing IT staffing, outsourcing, and consulting services to government agencies, multinational corporations, and SMEs. Zenith Infotech focuses on connecting businesses with skilled IT professionals across domains such as software development, cybersecurity, cloud services, and data analytics.",
+    "mission": "To be a trusted IT manpower partner by delivering reliable, cost-effective, and high-quality staffing solutions tailored to client needs.",
+    "vision": "Empower businesses with the right IT talent while creating meaningful opportunities for professionals to grow their careers.",
+    "values": [
+      "Client-first approach",
+      "Commitment to quality",
+      "Transparency and integrity",
+      "Quick turnaround in staffing",
+      "Long-term partnerships"
+    ],
+    "image": "https://static.wixstatic.com/media/c520e6_cf3ce15784ac440a9172bb9d2dfa6ab3~mv2.png/v1/fill/w_380,h_229,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c520e6_cf3ce15784ac440a9172bb9d2dfa6ab3~mv2.png",
+    "team": [
+  {
+    "name": "Management Team",
+    "role": "Leadership",
+    "bio": "Led by experienced IT and HR professionals with decades of combined expertise in manpower outsourcing and project management.",
+    "image": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "name": "Recruitment Specialists",
+    "role": "Talent Acquisition",
+    "bio": "A dedicated team that identifies, evaluates, and connects top IT talent with client requirements across industries.",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "name": "Tech Experts",
+    "role": "IT Solutions",
+    "bio": "Our technical specialists design, develop, and implement innovative IT solutions tailored to client needs.",
+    "image": "https://randomuser.me/api/portraits/men/12.jpg"
+  },
+  {
+    "name": "Support Team",
+    "role": "Client Assistance",
+    "bio": "Always available to ensure seamless communication, project updates, and post-deployment support.",
+    "image": "https://randomuser.me/api/portraits/women/28.jpg"
+  }
+]
+
+  }
+
+,
+ "hero": {
+    "headline": "Your Trusted IT Manpower Partner in Singapore",
+    "subheadline": "Providing skilled IT professionals, project outsourcing, and staffing solutions since 1997.",
+    "backgroundImage":[ "https://itgalax.com/wp-content/uploads/2019/12/application-dev.jpg",
+
+
+
+  "https://2.bp.blogspot.com/-EzUh9sngxuk/V0LyUmh0aOI/AAAAAAAAAEo/-oX8w-1hpfwLs4z6DLOITTwHGW7StI-AQCLcB/s1600/IT-Management.jpg",
+  "https://www.iiba.org/contentassets/a7030809931141bc830be6aec4fdb16a/every-company-is-now-a-data-company-header.jpg"  
+  
+  ],
+    "cta": {
+      "primary": { "text": "Explore Services", "link": "#services" },
+      "secondary": { "text": "Contact Us", "link": "#contact" }
+    }
+  }
+
+,
+  "careers": {
+    "title": "Join Our Team",
+    "subtitle": "Explore opportunities to build your career with Zenith Infotech.",
+    "openings": [
+      {
+        "role": "Frontend Developer",
+        "location": "Singapore",
+        "type": "Full-time",
+        "experience": "0-2 years",
+        "description": "Work on building responsive and user-friendly web applications using React, Tailwind CSS, and modern JavaScript.",
+        "requirements": [
+          "Strong knowledge of HTML, CSS, JavaScript",
+          "Basic knowledge of React.js",
+          "Good problem-solving skills",
+          "Freshers are welcome"
+        ]
+      },
+      {
+        "role": "Backend Developer",
+        "location": "Singapore",
+        "type": "Full-time",
+        "experience": "1-3 years",
+        "description": "Design and develop backend services using Node.js and Express with database integration.",
+        "requirements": [
+          "Experience in Node.js and Express",
+          "Understanding of REST APIs",
+          "Knowledge of MySQL or PostgreSQL",
+          "Good communication skills"
+        ]
+      },
+      {
+        "role": "UI/UX Designer",
+        "location": "Remote",
+        "type": "Internship",
+        "experience": "0-1 year",
+        "description": "Assist in creating intuitive and visually appealing designs for websites and mobile applications.",
+        "requirements": [
+          "Basic knowledge of Figma or Adobe XD",
+          "Creative mindset with attention to detail",
+          "Ability to work with developers",
+          "Freshers encouraged to apply"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Send your resume to careers@zenithinfotech.com.sg",
+      "button": "Apply Now"
+    }
+  }
+
+,
+  "footer": {
+    "sections": [
+      {
+        "title": "Company",
+        "links": [
+          { "title": "About Us", "url": "#about" },
+          { "title": "Careers", "url": "#careers" },
+          { "title": "Blog", "url": "#" }
+        ]
+      },  
+      {
+        "title": "Services",
+        "links": [
+          { "title": "Consulting", "url": "#services" },
+          { "title": "Outsourcing", "url": "#services" },
+          { "title": "IT Solutions", "url": "#services" }
+        ]
+      }
+    ],
+    "contact": {
+      "email": "contact@example.com",
+      "phone": ["+91 98765 43210", "+91 91234 56789"],
+      "address": "123, Tech Avenue, Bengaluru, India"
+    },
+    "socials": [
+      { "label": "Twitter", "url": "https://twitter.com/example" },
+      { "label": "LinkedIn", "url": "https://linkedin.com/company/example" },
+      { "label": "Facebook", "url": "https://facebook.com/example" }
+    ],
+    "copyright": "© 2025 Example Company. All rights reserved."
+  }
+
+}
